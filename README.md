@@ -1,7 +1,19 @@
-<h2 align="left">Hi 👋! My name is Abiel Yemane, and I'm a New Grad Software Engineer from Rochester, New York.</h2>
+<h1 align="left">Hi 👋! My name is Abiel Yemane, and I'm a New Grad Software Engineer from Rochester, New York. I am currently seeking full-time employment opportunities.
+</h1>
 
 ###
 
+###
+
+<h2> Activities<h3>
+<ul>
+  <li>🏀Basketball</li>
+  <li>🏋️‍♂️Working out</li>
+  <li>📈Trading</li>
+</ul>
+  
+###
+  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
